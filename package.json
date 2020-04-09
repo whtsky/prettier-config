@@ -12,7 +12,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
-    "husky": "4.2.4",
+    "husky": "4.2.5",
     "prettier": "2.0.4",
     "pretty-quick": "2.0.1",
     "standard-version": "7.1.0"
